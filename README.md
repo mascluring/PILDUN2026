@@ -1,26 +1,11 @@
 
-# FIFA World Cup 2026 — Official Schedule Version
+# FIFA Engine v2
 
 ## Features
-- Official-style fixture structure
-- Modular project architecture
-- GitHub Ready
-- Vercel Ready
-- Separate CSS / JS / JSON data
+- Auto group stage generator (FIFA format)
+- Knockout structure engine
+- Modular JSON data
+- Ready for Vercel / GitHub Pages
 
-## Structure
-```txt
-src/
-  app.js
-  style.css
-
-data/
-  fixtures.json
-```
-
-## Deploy to Vercel
-1. Upload to GitHub
-2. Import repository in Vercel
-3. Deploy
-
-No build command required.
+## Important
+This is a RULE-BASED ENGINE (not hardcoded schedule).

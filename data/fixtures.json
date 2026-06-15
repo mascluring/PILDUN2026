@@ -1,25 +1,362 @@
-{
-  "matches": [
-    {
-      "group": "Group E",
-      "home": "Germany",
-      "away": "Ecuador",
-      "date": "June 14, 2026",
-      "venue": "New York New Jersey Stadium"
-    },
-    {
-      "group": "Group F",
-      "home": "Netherlands",
-      "away": "Japan",
-      "date": "June 15, 2026",
-      "venue": "Seattle Stadium"
-    },
-    {
-      "group": "Group F",
-      "home": "Sweden",
-      "away": "Tunisia",
-      "date": "June 15, 2026",
-      "venue": "Houston Stadium"
-    }
-  ]
-}
+[
+  {
+    "group": "A",
+    "home": "Mexico",
+    "away": "South Korea"
+  },
+  {
+    "group": "A",
+    "home": "Czechia",
+    "away": "South Africa"
+  },
+  {
+    "group": "A",
+    "home": "Mexico",
+    "away": "Czechia"
+  },
+  {
+    "group": "A",
+    "home": "South Korea",
+    "away": "South Africa"
+  },
+  {
+    "group": "A",
+    "home": "Mexico",
+    "away": "South Africa"
+  },
+  {
+    "group": "A",
+    "home": "South Korea",
+    "away": "Czechia"
+  },
+  {
+    "group": "B",
+    "home": "Switzerland",
+    "away": "Canada"
+  },
+  {
+    "group": "B",
+    "home": "Qatar",
+    "away": "Bosnia & Herzegovina"
+  },
+  {
+    "group": "B",
+    "home": "Switzerland",
+    "away": "Qatar"
+  },
+  {
+    "group": "B",
+    "home": "Canada",
+    "away": "Bosnia & Herzegovina"
+  },
+  {
+    "group": "B",
+    "home": "Switzerland",
+    "away": "Bosnia & Herzegovina"
+  },
+  {
+    "group": "B",
+    "home": "Canada",
+    "away": "Qatar"
+  },
+  {
+    "group": "C",
+    "home": "Brazil",
+    "away": "Morocco"
+  },
+  {
+    "group": "C",
+    "home": "Scotland",
+    "away": "Haiti"
+  },
+  {
+    "group": "C",
+    "home": "Brazil",
+    "away": "Scotland"
+  },
+  {
+    "group": "C",
+    "home": "Morocco",
+    "away": "Haiti"
+  },
+  {
+    "group": "C",
+    "home": "Brazil",
+    "away": "Haiti"
+  },
+  {
+    "group": "C",
+    "home": "Morocco",
+    "away": "Scotland"
+  },
+  {
+    "group": "D",
+    "home": "United States",
+    "away": "Turkey"
+  },
+  {
+    "group": "D",
+    "home": "Australia",
+    "away": "Paraguay"
+  },
+  {
+    "group": "D",
+    "home": "United States",
+    "away": "Australia"
+  },
+  {
+    "group": "D",
+    "home": "Turkey",
+    "away": "Paraguay"
+  },
+  {
+    "group": "D",
+    "home": "United States",
+    "away": "Paraguay"
+  },
+  {
+    "group": "D",
+    "home": "Turkey",
+    "away": "Australia"
+  },
+  {
+    "group": "E",
+    "home": "Germany",
+    "away": "Ecuador"
+  },
+  {
+    "group": "E",
+    "home": "Ivory Coast",
+    "away": "Cura\u00e7ao"
+  },
+  {
+    "group": "E",
+    "home": "Germany",
+    "away": "Ivory Coast"
+  },
+  {
+    "group": "E",
+    "home": "Ecuador",
+    "away": "Cura\u00e7ao"
+  },
+  {
+    "group": "E",
+    "home": "Germany",
+    "away": "Cura\u00e7ao"
+  },
+  {
+    "group": "E",
+    "home": "Ecuador",
+    "away": "Ivory Coast"
+  },
+  {
+    "group": "F",
+    "home": "Netherlands",
+    "away": "Japan"
+  },
+  {
+    "group": "F",
+    "home": "Sweden",
+    "away": "Tunisia"
+  },
+  {
+    "group": "F",
+    "home": "Netherlands",
+    "away": "Sweden"
+  },
+  {
+    "group": "F",
+    "home": "Japan",
+    "away": "Tunisia"
+  },
+  {
+    "group": "F",
+    "home": "Netherlands",
+    "away": "Tunisia"
+  },
+  {
+    "group": "F",
+    "home": "Japan",
+    "away": "Sweden"
+  },
+  {
+    "group": "G",
+    "home": "Belgium",
+    "away": "Iran"
+  },
+  {
+    "group": "G",
+    "home": "Egypt",
+    "away": "New Zealand"
+  },
+  {
+    "group": "G",
+    "home": "Belgium",
+    "away": "Egypt"
+  },
+  {
+    "group": "G",
+    "home": "Iran",
+    "away": "New Zealand"
+  },
+  {
+    "group": "G",
+    "home": "Belgium",
+    "away": "New Zealand"
+  },
+  {
+    "group": "G",
+    "home": "Iran",
+    "away": "Egypt"
+  },
+  {
+    "group": "H",
+    "home": "Spain",
+    "away": "Uruguay"
+  },
+  {
+    "group": "H",
+    "home": "Saudi Arabia",
+    "away": "Cape Verde"
+  },
+  {
+    "group": "H",
+    "home": "Spain",
+    "away": "Saudi Arabia"
+  },
+  {
+    "group": "H",
+    "home": "Uruguay",
+    "away": "Cape Verde"
+  },
+  {
+    "group": "H",
+    "home": "Spain",
+    "away": "Cape Verde"
+  },
+  {
+    "group": "H",
+    "home": "Uruguay",
+    "away": "Saudi Arabia"
+  },
+  {
+    "group": "I",
+    "home": "France",
+    "away": "Senegal"
+  },
+  {
+    "group": "I",
+    "home": "Norway",
+    "away": "Iraq"
+  },
+  {
+    "group": "I",
+    "home": "France",
+    "away": "Norway"
+  },
+  {
+    "group": "I",
+    "home": "Senegal",
+    "away": "Iraq"
+  },
+  {
+    "group": "I",
+    "home": "France",
+    "away": "Iraq"
+  },
+  {
+    "group": "I",
+    "home": "Senegal",
+    "away": "Norway"
+  },
+  {
+    "group": "J",
+    "home": "Argentina",
+    "away": "Austria"
+  },
+  {
+    "group": "J",
+    "home": "Algeria",
+    "away": "Jordan"
+  },
+  {
+    "group": "J",
+    "home": "Argentina",
+    "away": "Algeria"
+  },
+  {
+    "group": "J",
+    "home": "Austria",
+    "away": "Jordan"
+  },
+  {
+    "group": "J",
+    "home": "Argentina",
+    "away": "Jordan"
+  },
+  {
+    "group": "J",
+    "home": "Austria",
+    "away": "Algeria"
+  },
+  {
+    "group": "K",
+    "home": "Portugal",
+    "away": "Colombia"
+  },
+  {
+    "group": "K",
+    "home": "DR Congo",
+    "away": "Uzbekistan"
+  },
+  {
+    "group": "K",
+    "home": "Portugal",
+    "away": "DR Congo"
+  },
+  {
+    "group": "K",
+    "home": "Colombia",
+    "away": "Uzbekistan"
+  },
+  {
+    "group": "K",
+    "home": "Portugal",
+    "away": "Uzbekistan"
+  },
+  {
+    "group": "K",
+    "home": "Colombia",
+    "away": "DR Congo"
+  },
+  {
+    "group": "L",
+    "home": "England",
+    "away": "Croatia"
+  },
+  {
+    "group": "L",
+    "home": "Panama",
+    "away": "Ghana"
+  },
+  {
+    "group": "L",
+    "home": "England",
+    "away": "Panama"
+  },
+  {
+    "group": "L",
+    "home": "Croatia",
+    "away": "Ghana"
+  },
+  {
+    "group": "L",
+    "home": "England",
+    "away": "Ghana"
+  },
+  {
+    "group": "L",
+    "home": "Croatia",
+    "away": "Panama"
+  }
+]

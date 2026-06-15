@@ -1,0 +1,126 @@
+{
+  "r32": [
+    {
+      "match": 1,
+      "slot": "TBD"
+    },
+    {
+      "match": 2,
+      "slot": "TBD"
+    },
+    {
+      "match": 3,
+      "slot": "TBD"
+    },
+    {
+      "match": 4,
+      "slot": "TBD"
+    },
+    {
+      "match": 5,
+      "slot": "TBD"
+    },
+    {
+      "match": 6,
+      "slot": "TBD"
+    },
+    {
+      "match": 7,
+      "slot": "TBD"
+    },
+    {
+      "match": 8,
+      "slot": "TBD"
+    },
+    {
+      "match": 9,
+      "slot": "TBD"
+    },
+    {
+      "match": 10,
+      "slot": "TBD"
+    },
+    {
+      "match": 11,
+      "slot": "TBD"
+    },
+    {
+      "match": 12,
+      "slot": "TBD"
+    },
+    {
+      "match": 13,
+      "slot": "TBD"
+    },
+    {
+      "match": 14,
+      "slot": "TBD"
+    },
+    {
+      "match": 15,
+      "slot": "TBD"
+    },
+    {
+      "match": 16,
+      "slot": "TBD"
+    }
+  ],
+  "r16": [
+    {
+      "match": 1
+    },
+    {
+      "match": 2
+    },
+    {
+      "match": 3
+    },
+    {
+      "match": 4
+    },
+    {
+      "match": 5
+    },
+    {
+      "match": 6
+    },
+    {
+      "match": 7
+    },
+    {
+      "match": 8
+    }
+  ],
+  "qf": [
+    {
+      "match": 1
+    },
+    {
+      "match": 2
+    },
+    {
+      "match": 3
+    },
+    {
+      "match": 4
+    }
+  ],
+  "sf": [
+    {
+      "match": 1
+    },
+    {
+      "match": 2
+    }
+  ],
+  "final": [
+    {
+      "match": 1
+    }
+  ],
+  "third": [
+    {
+      "match": 1
+    }
+  ]
+}
