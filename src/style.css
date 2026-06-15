@@ -1,0 +1,45 @@
+
+body{
+  margin:0;
+  background:#0b0f19;
+  color:#f5f5f5;
+  font-family:Arial,sans-serif;
+}
+
+.hero{
+  padding:40px 20px;
+  text-align:center;
+  border-bottom:1px solid rgba(255,255,255,.1);
+}
+
+h1{
+  margin:0;
+  font-size:42px;
+}
+
+main{
+  max-width:1200px;
+  margin:auto;
+  padding:20px;
+}
+
+.fixture-card{
+  background:#111827;
+  border:1px solid rgba(255,255,255,.08);
+  border-radius:12px;
+  padding:16px;
+  margin-bottom:12px;
+}
+
+.fixture-top{
+  display:flex;
+  justify-content:space-between;
+  margin-bottom:10px;
+  color:#c9a227;
+  font-size:14px;
+}
+
+.fixture-teams{
+  font-size:22px;
+  font-weight:bold;
+}

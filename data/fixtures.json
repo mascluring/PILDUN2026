@@ -1,0 +1,25 @@
+{
+  "matches": [
+    {
+      "group": "Group E",
+      "home": "Germany",
+      "away": "Ecuador",
+      "date": "June 14, 2026",
+      "venue": "New York New Jersey Stadium"
+    },
+    {
+      "group": "Group F",
+      "home": "Netherlands",
+      "away": "Japan",
+      "date": "June 15, 2026",
+      "venue": "Seattle Stadium"
+    },
+    {
+      "group": "Group F",
+      "home": "Sweden",
+      "away": "Tunisia",
+      "date": "June 15, 2026",
+      "venue": "Houston Stadium"
+    }
+  ]
+}
