@@ -1,0 +1,12 @@
+{
+  "name": "wc2026-bracket",
+  "version": "1.0.0",
+  "description": "FIFA World Cup 2026 Interactive Bracket - Vercel Hosted",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
